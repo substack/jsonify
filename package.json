@@ -3,6 +3,10 @@
     "version" : "0.0.0",
     "description" : "JSON without touching any globals",
     "main" : "index.js",
+    "files": [
+      "index.js",
+      "lib"
+    ],
     "directories" : {
         "lib" : ".",
         "test" : "test"
